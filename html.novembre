@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="fr-BE">
+    <head>
+        <meta charset="WTF-8">
+        <title> Titre pour Google</title>        
+        <meta name="description" content="Description pour Google ...">
+        <meta name ="viewport" content="widith=device-widith, initial-scale=1.0">
+        <link rel="icon" href="favicon.ico">
+        <link href="style.css" rel="stylesheet">
+    </head>    
+    <body>
+        <!-- début de l'En-tête -->
+        <header>
+            <div class="colonne1"style="float:left;width:50%; background-color:#6d071a; color:#fff5e9;">
+                
+                colonne 1
+                <h1>Chentouf Kaoutar</h1>
+                <h2 class="mon statut">Stagiaire</h2>
+                <h2 class="me contacter">Contact</h2>
+                <p>k.chentouf@outlook.be </p>
+                <p>Rue Du Souvenir 124,
+                     1070 Bruxelles</p>
+                <p>0486/25.71.08</p>
+                <h2 class="mes compétences">COMPETENCES</h2>
+                <P>Organisation</P>
+                <p>Professionnelle</p>
+                <p>Polyvalante</p>
+                <p>Attantive</p>
+                <h2 class="langue">Langue</h2>
+                <p>Francais</p><p>Néerlandais</p><p>Anglais</p>
+                 <!-- fin de Main /  Partie principale -->
+        
+        <!-- Début de Pied de page -->
+        <footer>
+            <section id="formulaire_contact">
+                <h2>"Contactez-moi !!!</h2>
+                <input type="Text">
+                <textarea></textarea>
+            </section>
+        </footer>
+        <!-- Fin de Pied de page -->
+            </div>
+             <div style="float:left;width:50%; background-color:#fff5e9;">
+                
+                colonne 2
+                <h2 class="titre">CURRICULUM VITAE</h2>
+                <h2 class="stage">Intituler du poste</h2>
+                <p>Actuellement à la recherche d'un stage en développement Back-end, 
+                    je souhaite contribuer à la conception et à l'optimisation de la logique serveur, 
+                    à la gestion des bases de données et au développement.
+                    Mon objectif est de collaborer avec des équipes pluridisciplinaires 
+                    pour assurer une intégration fluide des fonctionnalités.</p>
+                <h2 class="formation">Formation</h2>
+                <p>EFAPME 2024-2026
+                    Developpeur Back-End
+                </p>
+                <p>ITSCM 2023-2024 CESS
+                    tetchnicien de bureau
+                </p>
+                <p>EFP 2008-1010
+                    coiffure
+                </p>
+                <h2 class="experience">Experience</h2>
+                <p>coiffeuse- coloriste</p>
+                <p> Olivier Dachkin</p>
+                <p>Méche.</p> 
+                <p>Couleur.</p>
+                <p>Permanante.</p>
+                <p>Accueil.</p>
+                <p>Gérante.</p>
+                <h2 class="hobby">Hobbys</h2>
+                <p>lire | cuisiner | l’art du ballon</p>
+            
+        <!-- Début de Navigation -->
+            <nav>
+                <ul>
+                    <li><a href="#menu1">Menu 1</a></li>
+                    <li><a href="#menu2">Menu 2</a></li>
+                    <li><a href="#menu3">Menu 3</a></li>
+                </ul>
+            </nav>
+        <!-- Fin de Navigation -->
+        </header>
+        <!-- fin de l'En-tête -->
+
+         <!-- Début de Main /  Partie principale -->
+        <main>
+            <section id="a_propos">
+                <h2>Titre de niveau 2</h2>
+                <p>Un paragraphe</p>
+            </section>
+            <section id="coordonées">
+                <h2>Titre de niveau 2</h2>
+                <p> un paragraphe</p>
+            </section>
+        </main>
+   
+    </body>       
+</html>
